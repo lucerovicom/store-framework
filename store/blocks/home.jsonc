@@ -18,7 +18,7 @@
       "callToActionUrl": "/sale/d",
       "textAlignment": "center"
     }
-  }
+  },
 
   "info-card#button-left": {
     "props": {
@@ -30,7 +30,7 @@
       "callToActionMode": "url",
       "callToActionText": "Go to Collection",
       "callToActionUrl": "/sale/d",
-      "textAlignment": "left"
+      "textAlignment": "left|"
     }
   }
 }
