@@ -22,7 +22,9 @@
     "filter-navigator.v3",
     "search-fetch-more"
   ],
-  "pagination": "show-more"
+  "props": {
+    "pagination": "show-more"
+  }
 }
 
 }
