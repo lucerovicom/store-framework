@@ -44,6 +44,12 @@
     "filter-navigator.v3"
   ]
 },
+"flex-layout.col#search": {
+  "children":[
+    "search-content"
+  ]
+},
+
 "search-content": {
   "blocks": ["gallery", "not-found"]
 },
