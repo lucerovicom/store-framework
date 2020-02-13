@@ -7,14 +7,14 @@
     },
     "image#landingbanner": {
         "props": {
-          "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
+          "src": "https://www.purina.es/gato/purina-one/sites/g/files/mcldtz1856/files/2018-06/Mi_gato_no_come%20%282%29.jpg",
           "minWidth": "100%"
         }
       },
 
   "search-result-layout.customQuery": {
     "props": {
-      "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
+      "src": "https://ichef.bbci.co.uk/news/410/cpsprodpb/15665/production/_107435678_perro1.jpg",
       "minWidth": "100%",
       "querySchema": {
         "orderByField": "OrderByReleaseDateDESC",
